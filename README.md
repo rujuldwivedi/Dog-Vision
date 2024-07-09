@@ -1,6 +1,6 @@
 # Dog-Vision (🐶👁)
 
-Welcome to Dog-Vision, a project that harnesses the power of Computer Vision to classify photos of dogs into different breeds using TensorFlow. Whether you're a dog lover or a machine learning enthusiast, this project provides a hands-on exploration of deep learning and transfer learning in the realm of computer vision.
+Welcome to Dog Vision - a project that harnesses the power of Computer Vision to classify photos of dogs into different breeds using TensorFlow. Whether you're a dog lover or a machine learning enthusiast, this project provides a hands-on exploration of deep learning and transfer learning in the realm of computer vision.
 
 ## Project Overview
 
