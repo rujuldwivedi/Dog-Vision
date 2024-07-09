@@ -44,9 +44,8 @@ Finally, the trained model can be used to predict the breed of a dog in any give
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rujuldwivedi/MSDLProject.git`
-2. Install the required dependencies: `pip install -r data.txt`
-3. Run the Jupyter notebook: `jupyter notebook Dog_Breed_Multi_Classifier.ipynb`
+1. Clone the repository: `git clone https://github.com/rujuldwivedi/Dog-Vision.git`
+2. Run the Jupyter notebook: `jupyter notebook Dog-Vision.ipynb`
 
 ## Contributing
 
